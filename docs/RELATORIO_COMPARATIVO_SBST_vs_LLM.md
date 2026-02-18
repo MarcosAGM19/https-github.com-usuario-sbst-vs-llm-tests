@@ -246,11 +246,7 @@ public void shouldHandleBankingCalculationScenario() {
 
 ---
 
-## 8. Referências
 
-1. Fraser, G., & Arcuri, A. (2011). "EvoSuite: Automatic Test Suite Generation for Object-Oriented Software". FSE'11
-2. Chen, M., et al. (2021). "Evaluating Large Language Models Trained on Code". arXiv:2107.03374
-3. Ye, H., et al. (2023). "A Comparative Study on Software Testing: Manual vs. Automated Approaches". TSE'23
 
 ---
 
